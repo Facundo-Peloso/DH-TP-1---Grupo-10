@@ -1,0 +1,7 @@
+1 - llevar resultados a BINARIO : 1 Gano Blanca 0 Gano negra o hubo empate
+2- Columnas opening y variation: limpiar si hay nombres repetidos
+3-Corrobar si vale la pena mantener variation, osea sacarla y ver como predice
+4- Filtramos top 20 de jugadores
+5- Filtramos fecha??
+6- Columna que indique si es blitz / rapid/ otro
+7-analizar usar pca para bajar cantidad de Columnas
