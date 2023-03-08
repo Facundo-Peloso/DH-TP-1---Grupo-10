@@ -3,5 +3,5 @@
 3-Corrobar si vale la pena mantener variation, osea sacarla y ver como predice
 4- Filtramos top 20 de jugadores
 5- Filtramos fecha??
-6- Columna que indique si es blitz / rapid/ otro
+6- Columna que indique si es blitz / rapid/ otro  --- HECHO EN FACU BORRADOR 2 QUEDARON BLITZ - RAPID- TEAM Y CLASSIC
 7-analizar usar pca para bajar cantidad de Columnas
